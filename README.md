@@ -2,7 +2,11 @@
 User sign in and sign up
 
 # Command
-cd frontend  
-npm start  
+There are two folders: frontend and backend.
+$ cd frontend  
+$ npm start  
 
-cd backend -> node app
+$ cd backend  
+$ node app  
+
+Wait a few seconds for web loading
