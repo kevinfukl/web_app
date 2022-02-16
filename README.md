@@ -11,9 +11,11 @@ $ cd frontend
 $ cnpm i  
 $ npm start  
 
-2. In backend folder:  
+2. In backend folder (Open a new terminal):  
+$ cd web_app  
 $ cd backend  
-$ cd npm install   
+$ npm install   
+$ npm install mysql   
 $ node app  
 
-Wait a few seconds for web loading
+You may need to wait a few seconds for web loading. 
