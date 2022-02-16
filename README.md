@@ -23,4 +23,5 @@ $ npm install
 $ npm install mysql   
 $ node app  
 
-You may need to wait a few seconds for web loading. 
+You may need to wait a few seconds for web loading.  
+You may also need to install other node_modules needed.  
