@@ -7,7 +7,7 @@ Make sure you have installed 'node.js' and 'npm'.
 
 ## clone the project
 $ git clone https://github.com/kevinfukl/web_app.git   
-
+After clone the project:  
 1. In frontend folder:  
 $ cd web_app  
 $ cd frontend  
