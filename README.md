@@ -3,10 +3,13 @@ User sign in and sign up
 
 # Command
 There are two folders: frontend and backend.  
-In frontend folder:  
+Make sure you have installed node and npm.  
+
+1. In frontend folder:  
 $ cd frontend  
 $ npm start  
-In backend folder:  
+
+2. In backend folder:  
 $ cd backend  
 $ node app  
 
