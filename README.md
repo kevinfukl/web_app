@@ -5,6 +5,9 @@ User sign in and sign up
 There are two folders: frontend and backend.  
 Make sure you have installed 'node.js' and 'npm'.  
 
+## clone the project
+$ git clone https://github.com/kevinfukl/web_app.git   
+
 1. In frontend folder:  
 $ cd web_app  
 $ cd frontend  
