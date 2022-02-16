@@ -10,13 +10,13 @@ $ git clone https://github.com/kevinfukl/web_app.git
 
 
 After clone the project:  
-1. In frontend folder:  
+1. For frontend folder:  
 $ cd web_app  
 $ cd frontend  
 $ cnpm i  
 $ npm start  
 
-2. In backend folder (Open a new terminal):  
+2. For backend folder (Open a new terminal):  
 $ cd web_app  
 $ cd backend  
 $ npm install   
