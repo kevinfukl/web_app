@@ -2,7 +2,7 @@
 User sign in and sign up
 
 # Command
-There are two folders: frontend and backend.
+There are two folders: frontend and backend.  
 $ cd frontend  
 $ npm start  
 
